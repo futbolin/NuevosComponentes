@@ -1,0 +1,13 @@
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\bin\Debug\Prueba.exe
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\bin\Debug\Prueba.pdb
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\bin\Debug\NuevosComponentes.dll
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\bin\Debug\NuevosComponentes.pdb
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.exe
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\Prueba\obj\Debug\Prueba.pdb

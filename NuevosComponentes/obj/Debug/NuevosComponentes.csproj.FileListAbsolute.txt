@@ -1,0 +1,8 @@
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\bin\Debug\NuevosComponentes.dll
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\bin\Debug\NuevosComponentes.pdb
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.csprojAssemblyReference.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.LabelTextBox.resources
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.GenerateResource.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.CoreCompileInputs.cache
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.dll
+C:\Users\adriancallejo\Dropbox\Interfaces\Tema 5 - Creación de componentes\Ejemplos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.pdb
